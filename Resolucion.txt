@@ -3,4 +3,8 @@ Respuesta 1
 :Respuesta a la pregunta 3
 Respuesta a la pregunta 4
 :Respuesta a la pregunta 5
-:
+:Respuesta a la pregunta 6
+Respuesta a la pregunta 7
+Respuesta a la pregunta 8
+Respuesta a la pregunta 9
+Respuesta a la pregunta 10
